@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memoize-Matching-Pairs-Game/static/css/main.d99a187f.css",
+    "main.js": "/Memoize-Matching-Pairs-Game/static/js/main.e99263cc.js",
+    "index.html": "/Memoize-Matching-Pairs-Game/index.html",
+    "main.d99a187f.css.map": "/Memoize-Matching-Pairs-Game/static/css/main.d99a187f.css.map",
+    "main.e99263cc.js.map": "/Memoize-Matching-Pairs-Game/static/js/main.e99263cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99a187f.css",
+    "static/js/main.e99263cc.js"
+  ]
+}
